@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\U waterloo\\Courses\\407ETR\\json-simple-1.1.jar",
+        "e:\\U waterloo\\Courses\\407ETR\\jackson-annotations-2.15.0.jar",
+        "e:\\U waterloo\\Courses\\407ETR\\jackson-core-2.15.0.jar",
+        "e:\\U waterloo\\Courses\\407ETR\\jackson-databind-2.15.0.jar"
+    ]
+}
